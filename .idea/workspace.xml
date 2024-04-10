@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0d5cea6-eba5-4063-aaf1-2f815996b3d3" name="Default Changelist" comment="" />
+    <list default="true" id="d0d5cea6-eba5-4063-aaf1-2f815996b3d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhi/student/controller/StudentInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhi/student/controller/StudentInfoController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Enum" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,6 +46,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="270wOUExpvqbcmKXQoGNcQYQtZE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -134,7 +140,7 @@
       <workItem from="1655186322192" duration="19000" />
       <workItem from="1712651294024" duration="441000" />
       <workItem from="1712651743512" duration="12996000" />
-      <workItem from="1712732930943" duration="9618000" />
+      <workItem from="1712732930943" duration="10240000" />
     </task>
     <servers />
   </component>
